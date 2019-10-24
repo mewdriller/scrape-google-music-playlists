@@ -1,0 +1,16 @@
+{
+  "name": "@mewdriller/scrape-google-music-playlists",
+  "version": "1.0.0",
+  "private": true,
+  "bin": {
+    "scrape-google-music-playlists": "index.js"
+  },
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "inquirer": "^7.0.0",
+    "lodash": "^4.17.15",
+    "ora": "^4.0.2",
+    "puppeteer": "^2.0.0",
+    "user-agents": "^1.0.419"
+  }
+}
